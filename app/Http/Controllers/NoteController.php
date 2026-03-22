@@ -10,6 +10,7 @@ use Illuminate\Support\Arr;
 use Illuminate\Validation\Rule;
 
 class NoteController extends Controller
+{
 
     public function index()
     {
